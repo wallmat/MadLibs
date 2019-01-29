@@ -11,7 +11,7 @@ I made this simple
 application to do that automatically for her based on what she includes in three files.
 
 ## How To
-You can put whatever you want in the three files located in the "StreamingAssets" folder
+You can put whatever you want in the three files located in the "StreamingAssets" folder.
 You can open the project in Unity, go to the Master scene under "Assets/scenes" and run the editor.
 
 Or
@@ -28,4 +28,4 @@ Made in Unity 2018.3.3f1<br />
 Written in C#
 
 ## What I learned
-* How to launch chrome image search from unity script
+* How to launch chrome image search from unity script.
