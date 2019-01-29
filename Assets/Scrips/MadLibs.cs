@@ -37,7 +37,7 @@ public class MadLibs : MonoBehaviour
         LoadFile(Application.streamingAssetsPath + "/Styles.txt", "Styles", out m_Styles);
     }
 
-    public void LoadFile(string _path, string _debugLabel, out List<string> _list)
+    void LoadFile(string _path, string _debugLabel, out List<string> _list)
     {
         string _line;
         _list = new List<string>();
@@ -62,6 +62,18 @@ public class MadLibs : MonoBehaviour
         // {
         //     Debug.Log(_list[i]);
         // }
+    }
+
+    void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+         #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+         #else
+            Application.Quit();
+         #endif
+        }
     }
 
     public void OnRunClicked()
