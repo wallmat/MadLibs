@@ -14,10 +14,6 @@ application to do that automatically for her based on what she includes in three
 You can put whatever you want in the three files located in the "StreamingAssets" folder.
 You can open the project in Unity, go to the Master scene under "Assets/scenes" and run the editor.
 
-Or
-
-You can just Run the MadLibs.exe inside the "Executable" folder.
-
 **Escape:** Quits the application / Stops the editor.<br />
 **Run Button:** Creates the Madlibs type sentence.<br />
 **Check Boxes Under "Adjective, Style and Subject:** Turn off that part of the Madlibs.<br />
