@@ -1,3 +1,5 @@
+<img width="777" alt="capture" src="https://user-images.githubusercontent.com/15223204/53127028-7db10900-352f-11e9-9439-0f82e5b0bd59.PNG">
+
 # MadLibs
 Randomly picks an adjective, subject and style to create a situation.
 
@@ -22,6 +24,7 @@ You can open the project in Unity, go to the Master scene under "Assets/scenes" 
 ## About
 Made in Unity 2018.3.3f1<br />
 Written in C#
+Art: None, this wasnt made to be pretty
 
 ## What I learned
 * How to launch chrome image search from unity script.
