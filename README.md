@@ -23,7 +23,7 @@ You can open the project in Unity, go to the Master scene under "Assets/scenes" 
 
 ## About
 Made in Unity 2018.3.3f1<br />
-Written in C#
+Written in C# <br />
 Art: None, this wasnt made to be pretty
 
 ## What I learned
